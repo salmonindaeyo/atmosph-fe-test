@@ -1,0 +1,42 @@
+#home-backup {
+  .bg-mobile {
+    @apply absolute h-full w-full;
+    background-image: url("../assets/SVG/ATMOSPH.svg");
+    background-size: 110vw auto;
+    background-repeat: no-repeat;
+    background-position: 50% 52%;
+  }
+
+  .ios-size {
+    @supports (-webkit-touch-callout: none) {
+      /* CSS specific to iOS devices */
+      min-height: calc(100vh - 85px);
+    }
+  }
+
+  .bg {
+    @apply absolute h-full w-full;
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    background-position: 50% 39%;
+    background-image: url("../assets/SVG/ATMOSPH.svg");
+  }
+
+  .text-border {
+    font-family: sans-serif;
+    -webkit-text-stroke-color: white;
+    -webkit-text-stroke-width: 2px;
+    color: transparent;
+  }
+
+  .text-border-mobile {
+    font-family: sans-serif;
+    -webkit-text-stroke-color: white;
+    -webkit-text-stroke-width: 1px;
+    color: transparent;
+  }
+
+  .shadow-circle {
+    box-shadow: 0px -4px 100px 10px #0000000d;
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "teams": [
+    {
+      "name": "BACK-END DEVELOPER",
+      "qualifications": [
+        "Bachelor’s degree in computer science, information technology, or a similar field.",
+        "0-3 years of experience in web development, new graduates are welcome.",
+        "Experience working with PHP (Laravel), Node.js, or Golang, performing unit testing, and managing APIs such as REST.",
+        "Knowledge of database design and querying using SQL.",
+        "Proficiency in HTML and JavaScript.",
+        "Practical experience using the MVC architecture.",
+        "A portfolio of applications and programs to your name. ",
+        "Problem-solving skills and critical mindset.",
+        "Great communication skills.",
+        "The desire and ability to learn."
+      ],
+      "responsibilities": [
+        "Discussing project aims with development team.",
+        "Designing and building web applications.",
+        "Troubleshooting issues in the implementation and debug builds.",
+        "Working with front-end and back-end developers on projects.",
+        "Testing functionality for users and the backend.",
+        "Ensuring that integrations run smoothly.",
+        "Scaling projects based on client feedback.",
+        "Recording and reporting on work done.",
+        "Maintaining web-based applications."
+      ]
+    },
+    {
+      "name": "UX/UI DESIGNER",
+      "qualifications": [
+        "0-3 years of experience in UX/UI design for digital products or services, new graduates are welcome.",
+        "A portfolio of professional UX/UI design work for both web and mobile platforms.",
+        "Working knowledge of the following technologies and software: Figma, Design Systems, and Adobe Creative Suite.",
+        "A team player but can work independently too.",
+        "Excellent written and verbal communication skills.",
+        "Multi-tasking and time-management skills, with the ability to prioritize tasks.",
+        "The desire and ability to learn."
+      ],
+      "responsibilities": [
+        "Gather and evaluate user requirements in collaboration with the client and development team.",
+        "Illustrate design ideas using storyboards, process flows and sitemaps.",
+        "Design graphic user interface elements, like menus, tabs and widgets.",
+        "Build page navigation buttons and search fields.",
+        "Develop UI mockups and prototypes that clearly illustrate how sites function and look like.",
+        "Create original graphic designs (e.g. images, sketches and tables).",
+        "Prepare and present rough drafts to internal teams and key stakeholders.",
+        "Identify and troubleshoot UX problems (e.g. responsiveness).",
+        "Conduct layout adjustments based on user feedback.",
+        "Adhere to style standards on fonts, colors and images."
+      ]
+    }
+  ]
+}
